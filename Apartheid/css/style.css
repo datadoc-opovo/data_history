@@ -59,7 +59,7 @@ p {
 .icon-credos span {
     font-family: var(--noto);
     color: var(--dark);
-    margin-left: 10px;
+    margin-left: 5px;
     text-decoration: none;
 }
 
@@ -105,7 +105,7 @@ p {
         font-size: 16px;
     }
     .icon-credos span {
-        font-size: 13px;
+        font-size: 12px;
     }
     .list-leis li {
         font-size: 16px;
